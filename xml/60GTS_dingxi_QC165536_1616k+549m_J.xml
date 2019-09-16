@@ -1,0 +1,26 @@
+<annotation>
+  <folder>data</folder>
+  <filename>60GTS_dingxi_QC165536_1616k+549m_J</filename>
+  <path>E:\data\60GTS_dingxi_QC165536_1616k+549m_J.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>J</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>387</xmin>
+      <ymin>4</ymin>
+      <xmax>426</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+</annotation>
